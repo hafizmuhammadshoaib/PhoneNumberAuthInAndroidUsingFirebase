@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "255409100882",
+    "firebase_url": "https://sir-sajjad-faw-project.firebaseio.com",
+    "project_id": "sir-sajjad-faw-project",
+    "storage_bucket": "sir-sajjad-faw-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255409100882:android:cfc24a69be9ee5c5",
+        "android_client_info": {
+          "package_name": "com.example.shoai.phonenumberauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255409100882-oor595qtfdv9joukq9k91rn9id6muqtg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtmUgjdsWqxcwZ6WD9k3niT07drTtpSBA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
